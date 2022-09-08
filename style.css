@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid rgb(103, 127, 139);
+    margin: 100px;
+    padding: 100px;
+    background-color:rgba(103, 127, 139, 0.699); 
+
+}
+button{
+    background-color: #069;
+    color: whitesmoke;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: 0;
+}
